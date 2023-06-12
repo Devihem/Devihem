@@ -1,13 +1,11 @@
-## print('Hello, GitHub ! I'm Ivaylo Stoyanov, a rookie python developer !')<br> SyntaxError: invalid syntax.
+## print('Hello, GitHub! I'm Ivaylo Stoyanov, a rookie python developer !')
+***SyntaxError: invalid syntax.*** 
 
-<!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i.stoyanov.tech@gmail.com)
 
-&nbsp;
 
+---
 <!-- Talking about you -->
-**About me:**
+### About me:
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="33%" align="right" alt="Github" src="https://github.com/Devihem/Devihem/blob/main/background_github.png" />
@@ -27,7 +25,16 @@
 
 - (update...)
 
-&nbsp;
+---
+
+### Connect with me:
+
+ <!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i.stoyanov.tech@gmail.com)
+
+---
+
 <div id="badges" align="left">
   
   <a href="your-python-URL">
@@ -37,8 +44,8 @@
   <a href="your-github-URL">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
- 
-&nbsp;
+
+---
  
 <div id="stats" align="center">
 
