@@ -10,7 +10,7 @@
 **About me:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="100" align="right" alt="Github" src="https://github.com/Devihem/Devihem/blob/main/My%20project-1.png" />
+<img width="100%" align="right" alt="Github" src="https://github.com/Devihem/Devihem/blob/main/My%20project-1.png" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
