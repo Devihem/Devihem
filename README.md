@@ -12,9 +12,10 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="33%" align="right" alt="Github" src="https://github.com/Devihem/Devihem/blob/main/background_github.png" />
 
-I'm curious and inventive . In my free time i like to read articles about the new technology , devices and ideas . Currently i started studying about programing
 
-- 🔭 I’m currently studing for softwate engineer with Python in [SoftUni](https://softuni.bg/curriculum).
+
+
+- 🔭 I currently study for software engineer with Python in [SoftUni](https://softuni.bg/curriculum).
  
 - ⚡ I'm curious and inventive . In my free time i like to read articles about the new technologys , devices and project-ideas.
 
