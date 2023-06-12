@@ -37,9 +37,11 @@
 
 ---
 
-### <img align="left" alt="html tag image" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
+### <img align="left" alt="html tag image" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100" style="margin-right: 30px;"> &nbsp; Languages and Tools I know:
 
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
+
+
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:20px;" />
 
 <img align="left" alt="PyCharm" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" style="padding-right:10px;" />
 
