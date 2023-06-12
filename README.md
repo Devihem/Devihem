@@ -1,7 +1,13 @@
-### Hi, I'm Ivaylo Stoyanov, future Python developer and established Electrical Engineer
+## Hi, I'm Ivaylo Stoyanov, future Python developer and established Electrical Engineer
 
-<!--
-**Devihem/Devihem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
+
+&nbsp;
 
 Here are some ideas to get you started:
 
