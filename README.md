@@ -31,6 +31,7 @@ I'm curious and inventive . In my free time i like to read articles about the ne
   
   
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Devihem&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahariev-webbersof&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahariev-webbersof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
