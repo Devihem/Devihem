@@ -21,6 +21,12 @@
 
 -  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com and [Facebook](https://www.facebook.com/Devihem7)
 
+- (update...)
+
+- (update...)
+
+- (update...)
+
 &nbsp;
 <div id="badges" align="left">
   
@@ -31,9 +37,12 @@
   <a href="your-github-URL">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  
-  
+ 
+&nbsp;
+ 
+<div id="stats" align="center">
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devihem&theme=dark&background=000000)](https://git.io/streak-stats)
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devihem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
