@@ -27,7 +27,7 @@
 
 ---
 
-### Connect with me:
+### Contact with me:
 
  <!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="30px">](https://www.facebook.com/Devihem7/)
