@@ -1,17 +1,16 @@
 ## Hi, I'm Ivaylo Stoyanov, future Python developer and established Electrical Engineer
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
+<!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
 
 &nbsp;
 
-
 <!-- Talking about you -->
 **About me:**
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,6 +23,8 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 
+
+&nbsp;
 <div id="badges" align="left">
   
   <a href="your-python-URL">
