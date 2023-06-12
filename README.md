@@ -30,25 +30,30 @@
 ### Connect with me:
 
  <!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i.stoyanov.tech@gmail.com)
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="30px">](https://www.facebook.com/Devihem7/)
+[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30px">](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="Gmail" width="38px">](mailto:i.stoyanov.tech@gmail.com)
+
 
 ---
 
-<div id="badges" align="left">
-  
-  <a href="your-python-URL">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-  </a>
-    
-  <a href="your-github-URL">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
+
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PyCharm" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<br />
+<br />
 
 ---
- 
+
 <div id="stats" align="center">
-
+ 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devihem&theme=dark&background=000000)](https://git.io/streak-stats)
  
