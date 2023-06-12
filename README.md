@@ -29,3 +29,8 @@ I'm curious and inventive . In my free time i like to read articles about the ne
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   
+  
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zahariev-webbersof&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahariev-webbersof&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
