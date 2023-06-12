@@ -1,4 +1,4 @@
-## Hello, I'm Ivaylo Stoyanov 👋
+## Hello, I'm Ivaylo Stoyanov 👋 :man_technologist:
 
 <!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
