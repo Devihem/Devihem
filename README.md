@@ -1,8 +1,8 @@
 ## Hi, I'm Ivaylo Stoyanov, future Python developer and established Electrical Engineer
 
 <!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:i.stoyanov.tech@gmail.com)
 
 &nbsp;
 
