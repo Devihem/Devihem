@@ -4,10 +4,10 @@
 
 
 ---
-<!-- Talking about you -->
+
 ### About me:
 
-<!-- Any image aligned to the right. Beware the width -->
+
 <img width="33%" align="right" alt="Github" src="https://github.com/Devihem/Devihem/blob/main/background_github.png" />
 
 
@@ -29,7 +29,7 @@
 
 ### Contact with me:
 
- <!-- Your badgesYou can use the website to generate badges: https://shields.io/ -->
+
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="30px">](https://www.facebook.com/Devihem7/)
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30px">](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="Gmail" width="38px">](mailto:i.stoyanov.tech@gmail.com)
