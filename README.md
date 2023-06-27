@@ -23,7 +23,7 @@
 
 -  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com and [Facebook](https://www.facebook.com/Devihem7)
 
-- ⛰️ Loving to be in the nature, quiet and relaxing. Hiking & Camping.
+- ⛰️ Loving to be in the nature. Relax, Hiking and Camping.
 
 - (update...)
 
