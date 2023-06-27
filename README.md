@@ -14,14 +14,14 @@
 
 
 - 🔭 I currently study for software engineer with Python in [SoftUni](https://softuni.bg/curriculum).
+
+- 👨‍🎓 I'm an Electrical Engineer with RES Renewable Energy Sources
  
-- ⚡ I'm curious and inventive . In my free time i like to read articles about the new technologys , devices and project-ideas.
+- ⚡ Curious and Inventive . In my free time i like to read and study about the new technology's , devices and project-ideas.
 
 -  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com and [Facebook](https://www.facebook.com/Devihem7)
 
-- (update...)
-
-- (update...)
+- ⛰️ Loving to be in the nature, quiet and relaxing. Hiking, Camping & Beering.
 
 - (update...)
 
