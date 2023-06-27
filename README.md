@@ -1,5 +1,7 @@
 ## print('Hello, GitHub! I'm Ivaylo Stoyanov, a rookie python developer !')
-***SyntaxError: invalid syntax.*** 
+***SyntaxError: invalid syntax.***
+
+ ‎ ‎‎‎ ‎ ‎‎‎ ‎ ‎  ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎‎‎- I hope you liked my programmer joke.
 
 
 
