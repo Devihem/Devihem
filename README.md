@@ -43,13 +43,13 @@
 
 <img align="left" alt="html tag image" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/Developer.gif" width="100">&nbsp;&nbsp;
 
-<img alt="PYTHON" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/python-original.svg" />&nbsp;
+<img alt="PYTHON" width="45px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/python-original.svg" />&nbsp;
 &nbsp;
 <img alt="PYCHARM" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/pycharm.svg" />&nbsp;
 &nbsp;
 <img alt="GIT" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/git.svg"/>&nbsp;
 &nbsp;
-<img  alt="GITHUB" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/github.png" />&nbsp;
+<img  alt="GITHUB" width="40px" src="https://github.com/Devihem/Devihem/blob/main/icons/github.png" />
 <img  alt="MARKDOWN" width="60px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/markdown.png"/>&nbsp;
 &nbsp;
 
