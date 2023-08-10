@@ -50,7 +50,7 @@
 <img alt="GIT" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/git.svg"/>&nbsp;
 &nbsp;
 <img  alt="GITHUB" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/github.png" />&nbsp;
-<img  alt="MARKDOWN" width="50px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/markdown.png"/>&nbsp;
+<img  alt="MARKDOWN" width="60px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/markdown.png"/>&nbsp;
 &nbsp;
 
 
