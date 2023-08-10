@@ -10,7 +10,7 @@
 ### About me:
 
 
-<img width="33%" align="right" alt="Github" src="https://github.com/Devihem/Devihem/blob/main/background_github.png" />
+<img width="33%" align="right" alt="Devihem Missing Photo" src="https://github.com/Devihem/Devihem/blob/main/background_github.png" />
 
 
 
@@ -31,25 +31,28 @@
 
 ### Contact with me:
 
-
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="30px">](https://www.facebook.com/Devihem7/)
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30px">](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)
-[<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="Gmail" width="38px">](mailto:i.stoyanov.tech@gmail.com)
+[<img alt="FACEBOOK" width="30px" src="https://raw.githubusercontent.com/Devihem/Devihem/a643ded9881161d53addf4101c8e4fd54e47e094/icons/facebook-plain%20(1).svg" >](https://www.facebook.com/Devihem7/)&nbsp;
+&nbsp;
+[<img alt="LINKEDIN" width="30px" src="https://raw.githubusercontent.com/Devihem/Devihem/a643ded9881161d53addf4101c8e4fd54e47e094/icons/linkedin-original.svg" >](https://www.linkedin.com/in/ivaylo-stoyanov-731b9722a/)&nbsp;
+&nbsp;
+[<img alt="GMAIL" width="38px" src="https://raw.githubusercontent.com/Devihem/Devihem/a643ded9881161d53addf4101c8e4fd54e47e094/icons/google-gmail.svg" >](mailto:i.stoyanov.tech@gmail.com)&nbsp;
+&nbsp;
 
 
 ---
 
-### <img align="left" alt="html tag image" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100" style="margin-right: 30px;"> &nbsp; Languages and Tools I know:
+### Languages and Tools I know:
+
+<img align="left" alt="html tag image" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100" style="margin-right: 30px;">&nbsp;&nbsp;
 
 
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/python-original.svg" style="padding-right:20px;" />
 
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:20px;" />
+<img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/pycharm.svg" style="padding-right:10px;" />
 
-<img align="left" alt="PyCharm" width="30px" src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/git.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/github.png" style="padding-right:10px;" />
 
 <br />
 <br />
