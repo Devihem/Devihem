@@ -17,13 +17,13 @@
 
 - 👨‍🎓 I'm an Electrical Engineer with RES Renewable Energy Sources
  
-- ⚡ Curious and Inventive . In my free time i like to read and study about the new technology's , devices and project-ideas.
+- ⚡ Curious and Inventive . I like to stay tune to new technology's and devices.
 
--  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com and [Facebook](https://www.facebook.com/Devihem7)
+-  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com
 
 - ⛰️ Loving to be in the nature. Relax, Hiking and Camping.
 
-- (update...)
+<br/>
 
 ---
 
@@ -49,13 +49,14 @@
 &nbsp;
 <img alt="GIT" width="40px" src="https://raw.githubusercontent.com/Devihem/Devihem/0701e5483797846b8adde4b270568d0244b53b03/icons/git.svg"/>&nbsp;
 &nbsp;
-<img  alt="GITHUB" width="40px" src="https://github.com/Devihem/Devihem/blob/main/icons/github.png" />
+<img  alt="GITHUB" width="40px" src="https://github.com/Devihem/Devihem/blob/main/icons/github.png" />&nbsp;
+<img  alt="REGEX" width="70px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/ReGex.png" />&nbsp;
 <img  alt="MARKDOWN" width="60px" src="https://raw.githubusercontent.com/Devihem/Devihem/main/icons/markdown.png"/>&nbsp;
 &nbsp;
 
 
-<br />
-<br />
+<br/>
+<br/>
 
 <div id="stats" align="center">
  
