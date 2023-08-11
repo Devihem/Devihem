@@ -17,7 +17,7 @@
 
 - 👨‍🎓 I'm an Electrical Engineer with RES Renewable Energy Sources
  
-- ⚡ Curious and Inventive . I like to stay tune to new technology's and devices.
+- ⚡ Curious and Inventive . I like to stay tune to new technologies and devices.
 
 -  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com
 
