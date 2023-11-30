@@ -21,7 +21,7 @@
 
 -  📫 You can get in touch with me by email at: i.stoyanov.tech@gmail.com
 
-- ⛰️ I'm Loving to be in the nature. Relax, Hiking and Camping are my favorite when i have time for them.
+- ⛰️ I'm  Loving to be in the nature. Relax, Hiking and Camping are my favorite when i have time for them.
 
 <br/>
 
